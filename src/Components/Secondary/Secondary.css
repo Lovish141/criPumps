@@ -1,0 +1,38 @@
+.secondary{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.secondary_text{
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    font-weight: 500;
+    margin-bottom: 1.875em ;
+}
+.secondary_img{
+    width: 85%;
+    margin-bottom: 1.875em;
+}
+.para1{
+    margin-bottom: 0.9375em;
+    font-weight: 500;
+}
+hr{
+    background-color: red;
+    width: 98%;
+    margin: 0 auto 0.9375em ;
+}
+.secondary_header{
+    margin-bottom: 0.9375em;
+}
+.products{
+    font-weight: 500;
+}
+.products span{
+    color: red;
+}
+.products_container{
+    padding: 0 1.5em;
+}

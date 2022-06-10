@@ -1,0 +1,21 @@
+.Footer{
+    margin-top: 1em;
+    padding: 3.125em  4.375em 5em;
+    background-color: red;
+    color: white;
+}
+.footer_list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@media screen and (max-width:724px) {
+    .footer_list{
+        flex-direction: column;
+    }
+    .footer_list li{
+        margin: 0.5em 0;
+    }
+    
+}
